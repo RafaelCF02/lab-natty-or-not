@@ -1,51 +1,26 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Transformando Conteúdo de Vídeo com Inteligência Artificial
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este projeto explora como transformar o conteúdo de um vídeo já gravado, alterando o contexto original ddo video sem precisar regravar. O objetivo é utilizar IA para criar uma nova narrativa de forma natural, mantendo a sincronia labial e a aparência original, de modo que o resultado final pareça autêntico.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+
+- ChatGPT: Utilizado para criação do roteiro, adaptando o conteúdo de maneira fluida e relevante para o novo tema.
+- Heygen: Para sincronizar o novo texto com a imagem original, utilizando tecnologia de lip-sync avançada.
+- Speechify (ou alternativas como Resemble.ai ou Replica): Para gerar uma narração natural, imitando o tom de voz do apresentador original.
+- Ferramenta de Edição de Vídeo (opcional): Adobe Premiere Pro ou DaVinci Resolve, para ajustes finais e personalização.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+
+1. Planejamento e Redação do Novo Texto: Usamos o ChatGPT para desenvolver o roteiro focado em inteligência artificial, mantendo a coerência e fluidez para o novo tema.
+2. Geração de Voz: Com a ajuda do Speechify, replicamos o estilo vocal do apresentador, garantindo que o áudio parecesse autêntico e natural.
+3. Upload e Sincronização: Carregamos o vídeo original no Heygen, utilizando sua tecnologia de lip-sync para alinhar os movimentos labiais ao novo áudio.
+4. Ajustes Finais: Fizemos uma revisão do vídeo, ajustando o ritmo e o tom da fala para maior naturalidade. Usamos um editor de vídeo para garantir transições suaves e uma experiência visual consistente.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+
+O resultado foi um vídeo onde o apresentador parece estar discutindo o tema de inteligência artificial de forma fluida, como se tivesse sido gravado originalmente para esse propósito. A combinação de ChatGPT para roteiro e as tecnologias de geração de voz e lip-sync provaram ser essenciais para alcançar um resultado convincente.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
 
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+Criar um vídeo com IA que parecesse 'natty' foi um processo interessante, pois, embora a tecnologia tenha facilitado a transformação, ajustes adicionais foram necessários para assegurar uma aparência realmente autêntica e natural.
