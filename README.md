@@ -1,7 +1,7 @@
 # Transformando Conteúdo de Vídeo com Inteligência Artificial
 
 ## 📒 Descrição
-Este projeto explora como transformar o conteúdo de um vídeo já gravado, alterando o contexto original ddo video sem precisar regravar. O objetivo é utilizar IA para criar uma nova narrativa de forma natural, mantendo a sincronia labial e a aparência original, de modo que o resultado final pareça autêntico.
+Este projeto explora como transformar o conteúdo de um vídeo já gravado, alterando o contexto original do video sem precisar regravar. O objetivo é utilizar IA para criar uma nova narrativa de forma natural, mantendo a sincronia labial e a aparência original, de modo que o resultado final pareça autêntico.
 
 ## 🤖 Tecnologias Utilizadas
 
